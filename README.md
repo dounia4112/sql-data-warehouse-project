@@ -12,7 +12,6 @@ This project simulates a real-world data warehousing scenario, focusing on:
 - **Data Transformation**: Cleaning and structuring data for analysis
 - **Data Loading**: Populating the data warehouse with transformed data
 - **Data Modeling**: Designing schemas optimized for analytical queries
-- **Analytics**: Generating insights through SQL queries
 
 ---
 
