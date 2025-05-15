@@ -26,9 +26,16 @@ This project simulates a real-world data warehousing scenario, focusing on:
 
 ---
 
-## 🚀 Getting Started
+## 🙏 Credits
+This project was inspired by the excellent tutorial by [Data With Baraa](https://www.youtube.com/results?search_query=data+with+baraa) on YouTube.
+Thanks to his clear explanation and structured content that guided the development of this project.
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/dounia4112/sql-data-warehouse-project.git
+---
 
+## 📬 Contact
+
+If you'd like to connect or have any questions:
+
+- **Email**: [dounia4112@gmail.com](mailto:dounia4112@gmail.com)
+- **LinkedIn**: [DOUNIA TOUBAL](https://www.linkedin.com/in/douniatoubal)
+- **GitHub**: [dounia4112](https://github.com/dounia4112)
