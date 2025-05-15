@@ -8,7 +8,7 @@ A comprehensive project demonstrating the construction of a modern data warehous
 
 This project simulates a real-world data warehousing scenario, focusing on:
 
-- **Data Ingestion**: Extracting data from various sources
+- **Data Ingestion**: Extracting data from various CSV files
 - **Data Transformation**: Cleaning and structuring data for analysis
 - **Data Loading**: Populating the data warehouse with transformed data
 - **Data Modeling**: Designing schemas optimized for analytical queries
